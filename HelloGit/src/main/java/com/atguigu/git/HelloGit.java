@@ -7,4 +7,7 @@ package com.atguigu.git;
  * @createTime 2021年02月24日 12:28:00
  */
 public class HelloGit {
+    public static void main(String[] args) {
+        System.out.println("更新一");
+    }
 }
